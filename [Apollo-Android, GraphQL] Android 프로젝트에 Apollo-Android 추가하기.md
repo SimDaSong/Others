@@ -1,7 +1,5 @@
 # [Apollo-Android, GraphQL] Android 프로젝트에 Apollo-Android 추가하기
 
-> 저는 Java가 주언어도 아니고 Android에 대해서는 더더욱 모르기 때문에 문서 상에 오류가 있을 수도 있습니다.
-
 
 
 ### Apollo-Android: https://github.com/apollographql/apollo-android
